@@ -1,2 +1,2 @@
 # Web-Durum-Kontrol-arac-
-Python ile yapılmış HTTP durum kontrol scripti. Yenilenmiş ve mükemmel.
+Python ile yapılmış HTTP durum kontrol scripti.
